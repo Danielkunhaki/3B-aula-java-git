@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="577.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="78.0" layoutY="260.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="139.0" text="Funcionários" />
+      <Button layoutX="260.0" layoutY="258.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="139.0" text="Clientes" />
+      <Button layoutX="437.0" layoutY="258.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="139.0" text="Caixa" />
+      <Button layoutX="78.0" layoutY="366.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="139.0" text="Fornecedores" />
+      <Button layoutX="260.0" layoutY="366.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="139.0" text="Produtos" />
+      <Button layoutX="437.0" layoutY="363.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="139.0" text="Relatorios" />
+      <Text layoutX="78.0" layoutY="60.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Menu Principal" wrappingWidth="315.0">
+         <font>
+            <Font name="Haettenschweiler" size="52.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="52.0" fitWidth="58.0" layoutX="14.0" layoutY="14.0">
+         <image>
+            <Image url="@../../../../../../../../Desktop/mobile_menu.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>
